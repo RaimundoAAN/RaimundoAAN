@@ -1,7 +1,7 @@
 
 ## 👋Olá! Eu sou Raimuno Neto
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-albuquerque-neto-04232a235/)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-albuquerque-neto-04232a235/)
 
 Sou um profissional dedicado, curioso e sempre em busca de aprender mais. Atualmente estou cursando **Engenharia de Software na UDF**, o que reforça minha base teórica e prática no desenvolvimento de sistemas. Tenho experiência prática com desenvolvimento em PHP e HTML, criando CRUDs, sistemas de estoque e integração com banco de dados. Gosto de resolver problemas, investigar erros e melhorar projetos com atenção aos detalhes. Sou comunicativo, aberto a feedback e não tenho medo de pedir ajuda quando necessário, sempre buscando entender o porquê das coisas. Também sou criativo, gosto de explorar ideias novas e desenvolver soluções completas, desde o planejamento até a execução. Procuro crescer na área de tecnologia, sempre com foco em entregar resultados claros, organizados e bem estruturados.
 
