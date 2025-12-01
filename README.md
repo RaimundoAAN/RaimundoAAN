@@ -5,8 +5,8 @@
 
 Sou um profissional dedicado, curioso e sempre em busca de aprender mais. Atualmente estou cursando **Engenharia de Software na UDF**, o que reforça minha base teórica e prática no desenvolvimento de sistemas. Tenho experiência prática com desenvolvimento em PHP e HTML, criando CRUDs, sistemas de estoque e integração com banco de dados. Gosto de resolver problemas, investigar erros e melhorar projetos com atenção aos detalhes. Sou comunicativo, aberto a feedback e não tenho medo de pedir ajuda quando necessário, sempre buscando entender o porquê das coisas. Também sou criativo, gosto de explorar ideias novas e desenvolver soluções completas, desde o planejamento até a execução. Procuro crescer na área de tecnologia, sempre com foco em entregar resultados claros, organizados e bem estruturados.
 
- ![raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=RaimundoAAN&show_icons=true&theme=dracula)
- ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaimundoAAN&layout=compact&theme=dracula)
+ ![raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundoaan&show_icons=true&theme=dracula)
+ ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundoaan&layout=compact&theme=dracula)
 
  ## 🖥️Tecnologia que uso no dia a dia
 **Linguagens de Programação**
