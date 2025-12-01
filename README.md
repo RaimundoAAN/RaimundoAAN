@@ -26,14 +26,6 @@ Gosto de resolver problemas, investigar bugs e construir soluções completas �
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Raimundo GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RaimundoAAN&show_icons=true&theme=dracula)
-
-![TopLangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaimundoAAN&layout=compact&theme=dracula)
-
----
-
 ## 📁 Projetos Recentes
 
 ### 🔹 **Sistema de Estoque (PHP + MySQL)**
@@ -44,8 +36,6 @@ Sistema simples para gerenciamento de jogos com interface amigável.
 
 ### 🔹 **Landing Page Responsiva**
 Desenvolvida com HTML, CSS e JavaScript.
-
-*(Se quiser, posso montar a lista com links reais dos seus repositórios.)*
 
 ---
 
