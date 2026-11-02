@@ -29,13 +29,10 @@ Gosto de resolver problemas, investigar bugs e construir soluções completas �
 ## 📁 Projetos Recentes
 
 ### 🔹 **Sistema de Estoque (PHP + MySQL)**
-CRUD completo com cadastro, edição, exclusão e controle de quantidade.
-
-### 🔹 **Controle de Games (PHP + HTML + MySQL)**
-Sistema simples para gerenciamento de jogos com interface amigável.
 
 ### 🔹 **Landing Page Responsiva**
-Desenvolvida com HTML, CSS e JavaScript.
+
+### 🔹 **Screenmatch (Java)**
 
 ---
 
