@@ -30,7 +30,7 @@ Gosto de resolver problemas, investigar bugs e construir soluções completas �
 
 ### 🔹 **Sistema de Estoque (PHP + MySQL)**
 
-### 🔹 **Landing Page Responsiva**
+### 🔹 **Primeiro Projeto (HTML + CSS + JavaScript)**
 
 ### 🔹 **Screenmatch (Java)**
 
